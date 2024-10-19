@@ -54,6 +54,20 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Fine-tuning models for better performance
 - Evaluating summarization results
 
+### Lab-05: Dataset Analysis using Matplot Library
+- Introduction to Matplotlib
+- Plotting basic graphs and charts
+- Customizing plots
+- Analyzing datasets using Matplotlib
+- Creating complex visualizations
+
+### Lab-06: AI Text Summarization with HuggingFace
+- Overview of HuggingFace library
+- Loading and using pre-trained models
+- Implementing text summarization
+- Fine-tuning models for specific tasks
+- Evaluating and improving summarization results
+
 ## How to Use This Repository
 1. Clone this repository to your local machine:
    ```bash
